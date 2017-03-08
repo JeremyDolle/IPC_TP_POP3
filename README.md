@@ -41,7 +41,7 @@ _TP Client-Serveur "Post Office Protocol 3"_
 
  :warning: _**Warning :** un numéro de message, s’il est présent, NE peut PAS faire référence à un message marqué comme effacé_
 
-APOP _[user]_ _[password]_
+## APOP _[user]_ _[password]_
 ```diff
 +OK maildrop has 1 message (369 octets)
 -ERR permission refused
